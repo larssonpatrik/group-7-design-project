@@ -1,6 +1,6 @@
 **FITNESS APP**
 
-Welcome to our fitness app, created for the Group Design Project module.\
+Welcome to our fitness app, created for the CSU44098 Group Design Project module at Trinity College Dublin 2024.\
 This app caters to fitness enthusiasts of all levels, offering a suite of features to track, plan, and enhance your workout and diet regimes.\
 Built with a comprehensive stack of languages and technologies including Typescript, Python, Flask, MySQL, and Expo Go, our app delivers a seamless and interactive user experience.
 
